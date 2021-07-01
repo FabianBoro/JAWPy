@@ -20,13 +20,13 @@ a=4
 b=2
 
 # Penjumlahan
-CETAK a+b
+NYITHAK a+b
 
 # Pengurangan
-CETAK a-b
+NYITHAK a-b
 
 # Perkalian
-CETAK a*b
+NYITHAK a*b
 
 # Pembagian
-CETAK a/b
+NYITHAK a/b
