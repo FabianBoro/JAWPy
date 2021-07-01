@@ -1,5 +1,5 @@
 # Contoh pembuatan fungsi
 
-PUNGSI coba() -> NYITHAK "Buwung apa tu man?"
+PUNGSI coba() -> NYITHAK "halo bre, piye kabare?"
 
 coba()
