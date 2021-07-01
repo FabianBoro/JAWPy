@@ -1,0 +1,5 @@
+# Contoh pembuatan fungsi
+
+PUNGSI coba() -> NYITHAK "Buwung apa tu man?"
+
+coba()
